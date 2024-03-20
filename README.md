@@ -41,9 +41,6 @@ Detailed guidelines on how to use the trained model for pothole detection in ima
 ## Contributing
 Contributions are welcome! If you have suggestions for improving the model or extending its applications, please follow the standard pull request process.
 
-## License
-This project is released under [Insert License Here] License.
-
 ## Acknowledgments
 - Dataset provided by Roboflow.
 - Model architecture and training supported by Ultralytics.
